@@ -1,0 +1,30 @@
+.main{
+	margin-top: 100px;
+    min-height: 350px;
+}
+
+.input-group{
+	margin-top: 100px;
+}
+
+#myDic{
+	text-shadow: 3px 2px red;
+    font-size: 70px;
+}
+
+body{
+	background: linear-gradient(0deg,#00f3ff2e,#00f3ff2e),url(search.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+	color: black;
+	background-color: #e9ecef;
+	min-height: 350px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#show_search_word{
+	text-transform: capitalize;
+}
